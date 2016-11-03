@@ -8,6 +8,7 @@ namespace gitExercise1
 {
     class MyClass
     {
+        // A change 5
         public static void hello()
         {
             Console.WriteLine("B change 4");
