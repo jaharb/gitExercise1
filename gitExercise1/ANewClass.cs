@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace gitExercise1
 {
-    class Class1
+    class ANewClass
     {
     }
 }
