@@ -14,6 +14,7 @@ namespace gitExercise1
             MyClass.hello();
             // person A change1
             // A change2
+            // A change3
         }
     }
 }
