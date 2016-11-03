@@ -16,6 +16,8 @@ namespace gitExercise1
             // A change2
             // AB Change
             // another conflict AB
+            // This is on feature 1
+            // This is on feature also
         }
     }
 }
