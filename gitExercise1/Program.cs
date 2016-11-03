@@ -15,6 +15,7 @@ namespace gitExercise1
             // person A change1
             // A change2
             // AB Change
+            // B another conflict
         }
     }
 }
