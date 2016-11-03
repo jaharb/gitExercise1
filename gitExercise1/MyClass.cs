@@ -14,6 +14,7 @@ namespace gitExercise1
             // B change1
             // A change 4
             // B change 5
+            // B change 6
         }
     }
 }
