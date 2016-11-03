@@ -13,6 +13,7 @@ namespace gitExercise1
             Console.WriteLine("hello from Main!");
             MyClass.hello();
             // person A change1
+            // A change2
         }
     }
 }
