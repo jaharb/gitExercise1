@@ -12,6 +12,7 @@ namespace gitExercise1
         {
             Console.WriteLine("method 'hello' says: hello");
             // B change1
+            // A change 4
         }
     }
 }
