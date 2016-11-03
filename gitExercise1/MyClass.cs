@@ -12,6 +12,7 @@ namespace gitExercise1
         {
             Console.WriteLine("B change 4");
             // B change1
+            // A change 4
         }
     }
 }
