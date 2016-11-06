@@ -18,7 +18,7 @@ namespace gitExercise1
             // another conflict AB
             // This is a change on master from B
             // master change
-            // B change
+            // B change (A told me to)
         }
     }
 }
