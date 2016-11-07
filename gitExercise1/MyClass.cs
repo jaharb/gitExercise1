@@ -10,7 +10,7 @@ namespace gitExercise1
     {
         public static void hello()
         {
-            Console.WriteLine("B change 4");
+            Console.WriteLine("hello from function");
         }
     }
 }
