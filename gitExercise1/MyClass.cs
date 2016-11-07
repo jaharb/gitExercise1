@@ -11,7 +11,7 @@ namespace gitExercise1
         public static void hello()
         {
             Console.WriteLine("hello from function"); 
-            // B change
+            // A change (with mods)
         }
     }
 }
